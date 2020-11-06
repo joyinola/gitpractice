@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+#logout{
+position: absolute;
+  right: 0px;
+}
+#line{
+	width:50%;
+	margin-right: auto;
+	marker-left: auto;
+	height:0.5px;
+	background-color: #000000;
+}
+.button{
+	margin: 20px;
+}
